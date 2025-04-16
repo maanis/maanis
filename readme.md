@@ -13,7 +13,7 @@ Currently, I’m focused on:
 
 ## 🚀 Projects
 
-### **[Antisush](https://github.com/yourusername/antisush)**  
+### **[Antisush](https://antisushh.onrender.com)**  
 A **social media web app** with user registration, posting, commenting, chat functionality, and an **AI-powered chatbot** using **Gemini API**.
 
 ---

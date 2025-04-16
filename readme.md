@@ -13,14 +13,8 @@ Currently, I’m focused on:
 
 ## 🚀 Projects
 
-### **[antisush](https://github.com/yourusername/antisush)**  
+### **[Antisush](https://github.com/yourusername/antisush)**  
 A **social media web app** with user registration, posting, commenting, chat functionality, and an **AI-powered chatbot** using **Gemini API**.
-
-### **[TanStackQuery.react](https://github.com/yourusername/TanStackQuery.react)**  
-A **React project** that demonstrates **TanStack Query** for data fetching, caching, and mutation handling.
-
-### **[Turf Booking System](https://github.com/yourusername/turf-booking-system)**  
-A **MERN Stack** app for **turf booking** with features like user authentication, turf management, and an admin panel.
 
 ---
 
@@ -43,9 +37,9 @@ A **MERN Stack** app for **turf booking** with features like user authentication
 
 ## 📬 Get in Touch
 
-- 📧 **Email:** yourpersonal@email.com
-- 🐦 **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+- 📧 **Email:** manishjha962@gmail.com
+- 🐦 **Linkedin:** [@yourusername](https://www.linkedin.com/in/manishh-jha/)
+- 🌐 **Portfolio:** [yourportfolio.com](https://maanis.github.io/portfolio/)
 
 ---
 

@@ -3,7 +3,7 @@
 I'm a passionate **frontend developer** with a solid grasp of **backend technologies**. I build responsive and scalable web applications, and I’m continuously learning new technologies to improve my skills.
 
 Currently, I’m focused on:
-- React, Node.js, and Express
+- React is my USP
 - MERN Stack applications
 - Real-time communication with **Socket.IO**
 - State management using **Redux**

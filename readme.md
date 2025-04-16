@@ -38,8 +38,8 @@ A **social media web app** with user registration, posting, commenting, chat fun
 ## 📬 Get in Touch
 
 - 📧 **Email:** manishjha962@gmail.com
-- 🐦 **Linkedin:** [@yourusername](https://www.linkedin.com/in/manishh-jha/)
-- 🌐 **Portfolio:** [yourportfolio.com](https://maanis.github.io/portfolio/)
+- 🐦 **Linkedin:** [@manishh-jha](https://www.linkedin.com/in/manishh-jha/)
+- 🌐 **Portfolio:** [know me more](https://maanis.github.io/portfolio/)
 
 ---
 

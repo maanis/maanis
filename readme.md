@@ -13,7 +13,7 @@
 I'm a passionate **frontend developer** with a solid grasp of **backend technologies**. I build responsive and scalable web applications, and I'm continuously learning new technologies to improve my skills.
 
 Currently, I'm focused on:
-- �� React is my USP
+- 💡 React is my USP
 - 🚀 MERN Stack applications
 - 💬 Real-time communication with **Socket.IO**
 - 🔄 State management using **Redux**
@@ -34,19 +34,19 @@ Currently, I'm focused on:
 </div>
 
 ### 📈 Repository Overview
-- 📦 **48 Total Repositories** (Public & Private)
-- ⭐ **Primary Languages:** JavaScript (23), TypeScript (5), HTML (6), EJS (5), CSS (2), Python (1)
+- 📦 **48+ Total Repositories** (Public & Private)
+- ⭐ **Primary Languages:** JavaScript, TypeScript, HTML, EJS, CSS, Python
 - 🔥 **Active Development** in React, Next.js, and MERN stack projects
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌟 **[Antisush](https://antisushh.onrender.com)** ⭐ 1
+### 🌟 **[Antisush](https://antisushh.onrender.com)**
 A **social media web app** with user registration, posting, commenting, chat functionality, and an **AI-powered chatbot** using **Gemini API**.
 - 🔗 [GitHub Repository](https://github.com/maanis/antisushh)
 
-### 🎨 **[Refokus](https://github.com/maanis/refokus)** ⭐ 1
+### 🎨 **[Refokus](https://github.com/maanis/refokus)**
 A modern web project showcasing advanced animations and design patterns.
 
 ### 📱 **Other Notable Projects**

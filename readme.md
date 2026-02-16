@@ -1,46 +1,76 @@
 # Hi there, I'm Manish Jha 👋
 
-I'm a passionate **frontend developer** with a solid grasp of **backend technologies**. I build responsive and scalable web applications, and I’m continuously learning new technologies to improve my skills.
+I’m an **AI-driven Full Stack Developer** building scalable backend systems and intelligent web applications.
 
-Currently, I’m focused on:
-- React is my USP
-- MERN Stack applications
-- Real-time communication with **Socket.IO**
-- State management using **Redux**
-- CSS frameworks like **Tailwind CSS** and **GSAP animations**
+I focus on production-ready AI infrastructure, Retrieval-Augmented Generation (RAG) systems, and modern full-stack architecture.
 
 ---
 
-## 🚀 Projects
+## 🚀 What I'm Building
 
-### **[Antisush](https://antisushh.onrender.com)**  
-A **social media web app** with user registration, posting, commenting, chat functionality, and an **AI-powered chatbot** using **Gemini API**.
+### 🧠 RAG Builder Platform (In Progress)
 
----
+A multi-tenant RAG infrastructure platform that enables companies to create and deploy custom retrieval-based AI systems.
 
-## 🧰 Skills
-
-- **Frontend:** React, Redux, Tailwind CSS, GSAP, Framer Motion
-- **Backend:** Node.js, Express, MongoDB, JWT
-- **Tools & Libraries:** TanStack Query, Socket.IO, Axios, Git, Firebase
-- **Development:** Agile methodologies, REST APIs, CI/CD
+- Built with **LangChain**
+- Custom ingestion, chunking, and embedding pipelines
+- Vector-based retrieval with low-latency responses
+- Secure REST APIs for external application integration
 
 ---
 
-## 🌱 Currently Learning
+### 🎙 Voxly-AI
 
-- **Next.js** for better server-side rendering and static site generation
-- **Performance optimization** and **code splitting** in React apps
-- **AI and machine learning** integration in web development
+A full-stack meeting intelligence platform.
 
----
-
-## 📬 Get in Touch
-
-- 📧 **Email:** manishjha962@gmail.com
-- 🐦 **Linkedin:** [@manishh-jha](https://www.linkedin.com/in/manishh-jha/)
-- 🌐 **Portfolio:** [know me more](https://maanis.github.io/portfolio/)
+- Record or upload meeting audio (up to 100MB)
+- Transcribe using **OpenAI Whisper**
+- Store transcripts in a RAG pipeline for contextual Q&A
+- Reduced manual meeting review time by 60%
+- Fully open-sourced (hosting deferred due to infrastructure cost)
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out if you’d like to collaborate or discuss projects. Let’s build cool things together! 💻✨
+## 🧰 Tech Stack
+
+### Languages
+JavaScript, TypeScript, Python, SQL
+
+### Frontend
+React, Next.js, Tailwind CSS
+
+### Backend
+Node.js, Express, FastAPI, REST APIs, JWT, Socket.IO
+
+### AI / LLM Systems
+LangChain, OpenAI API, Gemini API, RAG Architecture, Prompt Engineering
+
+### Databases & Vector Stores
+MongoDB, PostgreSQL, FAISS, Pinecone
+
+### Tools
+Docker, Git, GCP, Firebase, Postman
+
+---
+
+## 🌱 Currently Exploring
+
+- Scalable AI infrastructure design
+- Multi-tenant SaaS architecture
+- Advanced RAG optimization
+- Distributed background processing
+
+---
+
+## 📬 Connect With Me
+
+📧 **Email:** manishjha962@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/manishh-jha/  
+🌐 **Portfolio:** https://maanis.dev  
+
+---
+
+If you're building AI-native products or scalable backend systems,  
+I’m always open to collaboration.
+
+Let’s build intelligent systems 🚀

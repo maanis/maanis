@@ -8,17 +8,6 @@ I focus on production-ready AI infrastructure, Retrieval-Augmented Generation (R
 
 ## 🚀 What I'm Building
 
-### 🧠 RAG Builder Platform (In Progress)
-
-A multi-tenant RAG infrastructure platform that enables companies to create and deploy custom retrieval-based AI systems.
-
-- Built with **LangChain**
-- Custom ingestion, chunking, and embedding pipelines
-- Vector-based retrieval with low-latency responses
-- Secure REST APIs for external application integration
-
----
-
 ### 🎙 Voxly-AI
 
 A full-stack meeting intelligence platform.
